@@ -1,7 +1,7 @@
 #!/system/bin/sh
 
-echo "\033[1;30mHAPPY BRTHDAY BOSS"
-echo "\033[1;30m   HERLINAA   "
+echo "\033[1;33mHAPPY BRTHDAY BOSS"
+echo "\033[1;33m   HERLINAA   "
 echo ""
 echo "\033[0;31mSempet heran sih"
 echo "\033[0;31mKayanya tahun kmren udah ultah ko sekarang ultah lagi yak"
@@ -24,7 +24,7 @@ echo "\033[1;32mSemakin banyak keluarga"
 echo ""
 echo "\033[1;34msemakin banyak perduli terhadapmu"
 echo ""
-echo "\033[0;37mDaaannnnnnn semakin cepat didekatkan dengan seaeorang yg selalu di perbincangkan kepada NYA"
+echo "\033[1;35mDaaannnnnnn semakin cepat didekatkan dengan seseorang yg selalu di perbincangkan kepada NYA"
 echo ""
 echo "\033[1;33mDan yang terakhir"
 echo ""
