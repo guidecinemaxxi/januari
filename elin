@@ -1,9 +1,0 @@
-#!/system/bin/sh
-
-echo "\33[0;32m'HAPPY BRDAY BOSS"
-echo "\e[0;35m'   HERLINAA   "
-echo ""
-echo "\e[0;33m'Semoga panjang umurnya"
-echo ""
-echo "\e[0;37m'Sehat selalu pastinya"
-echo ""
