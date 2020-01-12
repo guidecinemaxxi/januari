@@ -1,5 +1,5 @@
 #!/system/bin/sh
-
+echo "\033[1;33mBARAKALLAHU FII UMRIK"
 echo "\033[1;33mHAPPY BRTHDAY BOSS"
 echo "\033[1;33m   HERLINAA   "
 echo ""
